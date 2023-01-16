@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S.Dheeraj Reddy</h1>
 <h3 align="center">Data science enthusiast</h3>
 
-- 🔭 I’m currently working on [Song-Recommendation-using-Facial-Emotion-Recognition](https://github.com/Dheeraj-2022/Song-Recommendation-using-Facial-Emotion-Recognition)
+- 🔭 I’m currently working on [Song-Recommendation-using-Facial-Emotion-Recognition](https://github.com/Dheeraj-2022/Song-recommendation-using-facial-expression)
 
 - 🌱 I’m currently learning **Advanced Computer vision**
 
