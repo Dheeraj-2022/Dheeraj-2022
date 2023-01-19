@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Dheeraj-2022](https://github.com/Dheeraj-2022)
 
 - 📫 How to reach me **dheerureddy.s03@gmail.com**
-- Check out my resume <a href="https://drive.google.com/file/d/1Kg2V-_QdoC0WQmQgvobqPnXBM75Ls5j7/view?usp=share_link " alt="Here" ></a>
+- Check out my resume <p><a src="https://drive.google.com/file/d/1Kg2V-_QdoC0WQmQgvobqPnXBM75Ls5j7/view?usp=share_link " alt="Here" ></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
