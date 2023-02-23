@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dheerureddy.s03@gmail.com**
 
--Phone/Whatsapp:7842543907
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +23,8 @@
 <a href="https://www.hackerrank.com/@dheerureddy_s03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dheerureddy_s03" height="30" width="40" /></a>
 </p>
 
+<img align="left" alt="Rushikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishikonapure&show_icons=true&hide_border=true" />  
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
