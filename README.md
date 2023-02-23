@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced Computer vision**
 - 👯 I’m interested in a technical internship. 
+- I'm like to work in projects related to Machine learning,Deep learning and Software Development
 
 
 
