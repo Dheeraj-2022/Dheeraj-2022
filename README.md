@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/@dheerureddy_s03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dheerureddy_s03" height="30" width="40" /></a>
 </p>
 
-<img align="left" alt="Rushikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishikonapure&show_icons=true&hide_border=true" />  
+<img align="left" alt="Rushikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-2022&show_icons=true&hide_border=true" />  
  
 
 <h3 align="left">Languages and Tools:</h3>
