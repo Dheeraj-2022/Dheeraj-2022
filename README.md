@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.Dheeraj Reddy</h1>
-<h3 align="center">Data science enthusiast</h3>
+<h3 align="center">Data science and Software Engineering enthusiast</h3>
 
 
 - 🔭 I’m currently working on [Song-Recommendation-using-Facial-Emotion-Recognition](https://github.com/Dheeraj-2022/Song-recommendation-using-facial-expression)
@@ -78,13 +78,11 @@
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
 
 
 
-Check Resume [Here](https://drive.google.com/file/d/1wVMs1QgNx6X0YTSq61--XQu-8D3iZyEv/view?usp=share_link)
+Check Resume [Here]([https://drive.google.com/file/d/1JVa5dnsGnh0v1lXhDxE9DdCRWUOYFMh_/view])
 
  ![View Count](https://komarev.com/ghpvc/?username=Dheeraj-2022)
