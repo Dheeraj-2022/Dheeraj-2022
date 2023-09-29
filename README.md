@@ -83,6 +83,8 @@
 
 
 
-Check Resume [Here](https://drive.google.com/file/d/1JVa5dnsGnh0v1lXhDxE9DdCRWUOYFMh_/view)
+### Resume
+- [My Resume](https://drive.google.com/file/d/1JVa5dnsGnh0v1lXhDxE9DdCRWUOYFMh_/view)
+
 
  ![View Count](https://komarev.com/ghpvc/?username=Dheeraj-2022)
