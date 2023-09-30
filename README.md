@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.Dheeraj Reddy</h1>
 <h3 align="center">Data science and Software Engineering enthusiast</h3>
 
-
-- 🔭 I’m currently working on [Song-Recommendation-using-Facial-Emotion-Recognition](https://github.com/Dheeraj-2022/Song-recommendation-using-facial-expression)
-
-- 🌱 I’m currently learning **Advanced Computer vision**
 - 👯 I’m interested in a technical internship. 
 - I'm like to work in projects related to Machine learning,Deep learning and Software Development
 
