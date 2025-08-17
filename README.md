@@ -80,7 +80,7 @@
 
 
 ### Resume
-- [My Resume](https://drive.google.com/file/d/1JVa5dnsGnh0v1lXhDxE9DdCRWUOYFMh_/view)
+- [My Resume]([https://drive.google.com/file/d/1JVa5dnsGnh0v1lXhDxE9DdCRWUOYFMh_/view](https://drive.google.com/file/d/1nL22GOuj15o3KD_7hu29jqkx8lWuoQcK/view?usp=sharing))
 
 
  ![View Count](https://komarev.com/ghpvc/?username=Dheeraj-2022)
